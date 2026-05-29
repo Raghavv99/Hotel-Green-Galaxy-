@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Green Galaxy",
+  "description": "A luxury hotel website for Hotel Green Galaxy in Jhansi, Uttar Pradesh, featuring premium design, booking functionalities, and elegant showcasing of rooms and facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

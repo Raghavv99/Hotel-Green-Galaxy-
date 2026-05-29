@@ -1,0 +1,9 @@
+{
+  "short_name": "GreenGalaxy",
+  "name": "Hotel Green Galaxy Jhansi",
+  "icons": [],
+  "start_url": "/",
+  "background_color": "#06221c",
+  "theme_color": "#C5A880",
+  "display": "standalone"
+}
